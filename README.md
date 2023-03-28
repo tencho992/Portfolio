@@ -1,7 +1,6 @@
-Welcome to Tenzin's Portfolio!
+# 👩‍💻 Tenzin's Portfolio! 
+<img src="images/portfolio.png">
 
-Searching for the form tag attribute to sumbit emails.
-Let me know if you happen to know the attribute :D
--Tenzin
-
-Template: Strata By: HTML5up
+<a href="html5up.com">Template: HTML5UP</a>
+◊◊◊<br>
+Tech used: HTML, CSS, JavaScript.
